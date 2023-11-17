@@ -1,4 +1,3 @@
-
 package mathbrain.maven.game;
 
 public class Addition {
